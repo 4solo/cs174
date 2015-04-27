@@ -1,0 +1,49 @@
+﻿生成启动时间为 2015/1/12 23:45:33。
+     1>项目“C:\Users\Administrator\Desktop\174\174\174.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\C\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\Exe (x64 Release)\174.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"..\Exe (x64 Release)\174.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Exe (x64 Release)\174.lib" /MACHINE:X64 "Build (x64 Release)\anim.obj"
+     1>anim.obj : error LNK2019: 无法解析的外部符号 glewInit，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutPostRedisplay，该符号在函数 "void __cdecl idleCB(void)" (?idleCB@@YAXXZ) 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，该符号在函数 "void __cdecl display(void)" (?display@@YAXXZ) 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutIdleFunc，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardFunc，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutMouseFunc，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp_glutMotionFunc，该符号在函数 main 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp___glutInitWithExit，该符号在函数 glutInit_ATEXIT_HACK 中被引用
+     1>anim.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，该符号在函数 glutCreateWindow_ATEXIT_HACK 中被引用
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewBindBuffer
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewBufferData
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewGenBuffers
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewAttachShader
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewCompileShader
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewCreateProgram
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewCreateShader
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewEnableVertexAttribArray
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewGetAttribLocation
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewGetProgramInfoLog
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewGetProgramiv
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewGetShaderInfoLog
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewGetShaderiv
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewGetUniformLocation
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewLinkProgram
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewShaderSource
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewUniform1f
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewUniform4f
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewUniformMatrix4fv
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewUseProgram
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewVertexAttribPointer
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewBindVertexArray
+     1>anim.obj : error LNK2001: 无法解析的外部符号 __glewGenVertexArrays
+     1>anim.obj : error LNK2001: 无法解析的外部符号 glewExperimental
+     1>..\Exe (x64 Release)\174.exe : fatal error LNK1120: 39 个无法解析的外部命令
+     1>已完成生成项目“C:\Users\Administrator\Desktop\174\174\174.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.11

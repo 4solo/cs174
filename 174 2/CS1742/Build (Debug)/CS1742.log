@@ -1,0 +1,112 @@
+﻿生成启动时间为 2015/3/16 18:19:53。
+     1>项目“C:\Users\Administrator\Desktop\CS174\CS1742\CS1742\CS1742.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\C\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Build (Debug)\\" /Fd"Build (Debug)\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "my code\anim.cpp"
+         anim.cpp
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\mat_and_vec.h(4): warning C4244: “初始化”: 从“const double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\utilities.h(164): warning C4244: “参数”: 从“std::streamoff”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(96): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(97): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(98): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(111): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(170): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(199): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(303): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(304): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(305): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(318): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\cs174a template\shapes.h(377): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(59): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(60): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(61): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(102): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(114): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(123): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(130): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(139): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(212): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(216): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(220): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(224): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(258): warning C4305: “参数”: 从“double”到“float”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(274): warning C4305: “参数”: 从“double”到“float”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(295): warning C4305: “参数”: 从“double”到“float”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(301): warning C4305: “参数”: 从“double”到“float”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(302): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(303): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(305): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(309): warning C4305: “参数”: 从“double”到“float”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(310): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(312): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(332): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(363): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(373): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(381): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(389): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(399): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(407): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(415): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(425): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(433): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(441): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(451): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(459): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(467): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(477): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(485): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(495): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(503): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(513): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(521): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(531): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(539): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(549): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(559): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(569): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(579): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(590): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(598): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(610): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(618): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(630): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(638): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(651): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(659): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(671): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(681): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(689): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(697): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(709): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(717): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(725): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(735): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(743): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(751): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(761): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(769): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(777): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(789): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(797): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(811): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(819): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(833): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(841): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(853): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(861): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(1261): warning C4305: “参数”: 从“double”到“GLclampf”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(1263): warning C4305: “参数”: 从“double”到“float”截断
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(1268): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\cs174\cs1742\cs1742\my code\anim.cpp(1271): warning C4101: “time1”: 未引用的局部变量
+       Link:
+         D:\C\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Exe(Debug)\CS1742.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\Exe(Debug)\CS1742.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Exe(Debug)\CS1742.lib" /MACHINE:X86 "Build (Debug)\anim.obj"
+         CS1742.vcxproj -> C:\Users\Administrator\Desktop\CS174\CS1742\CS1742\..\Exe(Debug)\CS1742.exe
+       PostBuildEvent:
+         xcopy "..\GL\Win32\*.dll" "..\Exe(Debug)\" /i /r /y
+         :VCEnd
+         ..\GL\Win32\freeglut.dll
+         复制了 1 个文件
+     1>已完成生成项目“C:\Users\Administrator\Desktop\CS174\CS1742\CS1742\CS1742.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.95

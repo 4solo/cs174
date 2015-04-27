@@ -1,0 +1,51 @@
+﻿生成启动时间为 2015/2/2 12:04:43。
+     1>项目“C:\Users\Administrator\Desktop\174\174\174.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\C\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Build (Win32 Debug)\\" /Fd"Build (Win32 Debug)\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "my code\anim.cpp"
+         anim.cpp
+     1>c:\users\administrator\desktop\174\174\cs174a template\mat.h(6): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\174\174\cs174a template\mat.h(691): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\cs174a template\mat.h(692): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\cs174a template\mat.h(693): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\cs174a template\mat.h(714): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\cs174a template\mat.h(716): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\cs174a template\mat.h(719): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\cs174a template\mat.h(736): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\cs174a template\shapes.h(157): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\174\174\cs174a template\shapes.h(158): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\174\174\cs174a template\shapes.h(159): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\administrator\desktop\174\174\cs174a template\shapes.h(172): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\cs174a template\shapes.h(231): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\cs174a template\shapes.h(260): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(185): warning C4305: “参数”: 从“double”到“GLclampf”截断
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(242): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(272): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(275): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(286): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(287): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(307): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(310): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(318): warning C4244: “参数”: 从“double”转换到“const GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(321): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(340): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(422): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(423): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(449): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(450): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(458): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(460): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(478): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>c:\users\administrator\desktop\174\174\my code\anim.cpp(479): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+       Link:
+         D:\C\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Exe (Win32 Debug)\174.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\Exe (Win32 Debug)\174.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Exe (Win32 Debug)\174.lib" /MACHINE:X86 "Build (Win32 Debug)\anim.obj"
+         174.vcxproj -> C:\Users\Administrator\Desktop\174\174\..\Exe (Win32 Debug)\174.exe
+       PostBuildEvent:
+         xcopy "..\GL\Win32\*.dll" "..\Exe (Win32 Debug)\" /i /r /y
+         :VCEnd
+         ..\GL\Win32\freeglut.dll
+         复制了 1 个文件
+     1>已完成生成项目“C:\Users\Administrator\Desktop\174\174\174.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.95
